@@ -10,7 +10,10 @@ Conhecimentos:
     Python : (intermediário) {
             Flask: iniciante
             Tkinter: mediano
-            Api : mediano
+            Api : (mediano) {
+                 Criação de api : iniciante/medio
+                 Uso de api : mediano
+    }
 }
 
     Java : (pouquíssimo) {
@@ -23,6 +26,7 @@ Conhecimentos:
          Javascript : iniciante
                      React : iniciante 
 }
-    Idiomas : (intermediário/avançado) {
-
+    Idiomas : () {
+             Português : (ótimo/perfeito)
+             Inglês : (intermediário/muito bom)
 }
