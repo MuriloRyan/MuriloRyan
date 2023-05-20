@@ -1,18 +1,18 @@
-# Sobre mim!
+# About me!
 
 ## Murilo Ryan Barbosa da Silva
 
-> desenvolvedor web junior
+> junior web developer
 
-Olá, meu nome é Murilo e
-Sou um dev/estudante da linguagem **python**, e támbem do conjunto padrão de programação web, que inclui:
+Hello, my name is Murilo and
+I'm a dev/student of the **python** language, and of the standard web programming suite, which includes:
 
-> HTML - para semantica da aplicação web 
-> 
-> Css - para estilização do corpo do site/aplicação web (html)
+> HTML - for web application semantics
 >
-> e JavaScript - para o dinamismo da aplicação web
+> CSS - for website/web application body styling (html)
+>
+> and JavaScript - for web application dynamism
 
-Sendo eu um programador web que utiliza python, eu estou mais familiarizado
-com o framework __Flask__ do python;
-O qual eu o utilizo principalmente para funções de organização dos arquivos, paginas e pastas do projeto
+As a web programmer using python myself, I am most familiar with
+with python's __Flask__ framework;
+Which I use mainly for functions of organizing the files, pages and folders of the project
