@@ -10,7 +10,7 @@ Hello! I am a developer and creator with a passion for music, epic stories, and 
 
 ---
 
-## 📂 **projects I'm supporting**
+## 📂 **Projects I'm supporting**
 
 ### 🎶 **[PySongTool](https://github.com/MuriloRyan/pysongtool)**
 > A powerful tool for musicians, offering scale, chord, and harmonic progression generation. Soon, it will feature a complete API based on FastAPI for integration with other systems!
